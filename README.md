@@ -1,3 +1,3 @@
 # springboard1
 practice
-here is soe new text
+here is some new text
